@@ -1,0 +1,81 @@
+.container {
+    display: flex;
+}
+.box1 {
+    background-color: blue;
+    color: white;
+    width: 550px;
+    height: 60px;
+    padding-left: 100px;
+    padding-top: 10px;
+}
+.container1 {
+    background-color: rgb(196, 196, 196);
+    width: 650px;
+    height: 750px;
+}
+.box2 {
+    padding-left: 170px;
+}
+img {
+    width: 150px;
+    height: 150px;
+    margin: 1px 10px 1px 10px ;
+}
+h2 {
+    margin-left: 100px;
+}
+.q1 {
+    margin-left: 55px;
+}
+.q2 {
+    margin-left: 135px;
+}
+.container2 {
+    background: rgb(196, 196, 196);
+    padding-left: 20px;
+}
+.box3 {
+    background-color: blue;
+    color: white;
+    height: 60px;
+    width: 500px;
+    margin-left: -20px;
+    padding-top: 10px;
+}
+.w2 {
+    margin-left: 10px;
+}
+.w10 {
+    margin-left: 85px;
+}
+.w11 {
+    margin-left: 185px;
+    color: rgb(196, 196, 196);
+}
+.e1 {
+    background-color: blue;
+    color: white;
+    margin-left: 20px;
+}
+.kavin {
+    padding: 5px 0px 5px 0px;
+}
+.elevin {
+    padding: 5px 0px 5px 5px;
+}
+.mobile {
+    padding: 5px 170px 5px 5px;
+}
+.re {
+    padding: 5px 170px 5px 5px;
+}
+.new {
+    padding: 5px 170px 5px 5px;
+}
+.create {
+    background-color: green;
+    color: white;
+    padding: 10px 25px 10px 25px;
+    border-radius: 7px;
+}
